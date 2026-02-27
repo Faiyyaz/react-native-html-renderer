@@ -1,0 +1,37 @@
+{
+  "name": "react-native-html-renderer",
+  "version": "1.0.0",
+  "description": "A lightweight, performant, and fully customizable HTML renderer for react native",
+  "main": "./HTMLRenderer.tsx",
+  "react-native": "./HTMLRenderer.tsx",
+  "types": "./HTMLRenderer.tsx",
+  "files": [
+    "HTMLRenderer.tsx",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faiyyaz/react-native-html-renderer.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "html",
+    "renderer"
+  ],
+  "author": "Faiyyaz",
+  "license": "MIT",
+  "dependencies": {
+    "htmlparser2": "^10.0.0"
+  },
+  "peerDependencies": {
+    "expo-image": ">=1.0.0",
+    "react": ">=18",
+    "react-native": ">=0.60"
+  },
+  "bugs": {
+    "url": "https://github.com/Faiyyaz/react-native-html-renderer/issues"
+  },
+  "homepage": "https://github.com/Faiyyaz/react-native-html-renderer#readme"
+}
