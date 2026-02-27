@@ -96,9 +96,6 @@ text
 
 `tagStyles` `Partial<Record<h1-h6, InlineStyles>>` `undefined` Override heading styles
 
-`useVideoPlaceholder` `boolean` `undefined` Reserved for future video
-support
-
 `containerStyle` `StyleProp<ViewStyle>` `undefined` Style applied to root
 container
 
